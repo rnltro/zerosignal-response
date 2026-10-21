@@ -1,0 +1,21 @@
+{
+  "short_name": "ZeroSignal",
+  "name": "ZeroSignal Rescue AI Framework",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/emergency-light.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/emergency-light.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0d0e12",
+  "theme_color": "#ff3b30",
+  "display": "standalone",
+  "orientation": "portrait"
+}
